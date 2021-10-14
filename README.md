@@ -1,11 +1,12 @@
 
-# UPro
+# Uniprod+
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
+O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel para que ele viva seu curso em todos os momentos do dia.
+
 
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
@@ -25,8 +26,8 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
+- [ ] **Cadastrar Usuário**
+- [ ] **Fazer Login**
 - [ ] Matricular em Curso
 - [ ] Cancelar Matricula
 - [ ] Visualizar Notas
