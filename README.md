@@ -26,12 +26,23 @@ O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma práti
 
 # Requisitos Funcionais 
 
-- [ ] **Cadastrar Usuário**
-- [ ] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] Cadastrar Usuário
+- [ ] Fazer Login
+- [ ] Executar máterias
+- [ ] Executar atividades
+- [ ] Executar auto correção
+- [ ] Identificar avaliação do
+- [ ] Relatório de resultados para corpo docente
+- [ ] Relatório de resultados para corpo docente sobre avaliação do conteúdo
+- [ ] Propostas de cursos relacionados
+- [ ] Página de fórum
+- [ ] Opção de duvidas respondidas
+- [ ] Meio de comunicação com professor
+- [ ] Download do conteúdo
+- [ ] Ranqueamento do usuário
+- [ ] Avaliação do conteúdo
+
+
 
 # Tecnologias Usadas
 
