@@ -34,11 +34,12 @@ Escreva aqui um parágrafo contendo uma descrição ou resumo do seu projeto.
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
+- [HTML](https://html.com/)
 - [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [CSS](https://css.com/)
+- [SQL](https://www.mysql.com/)
+- [BootStrap](https://getbootstrap.com/)
+- [JavaScript](https://www.javascript.com/)
 
 # Contribuição
 
