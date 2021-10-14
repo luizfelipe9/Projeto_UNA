@@ -31,7 +31,7 @@ O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma práti
 - [ ] Executar máterias
 - [ ] Executar atividades
 - [ ] Executar auto correção
-- [ ] Identificar avaliação do
+- [ ] Identificar avaliação do Contéudo
 - [ ] Relatório de resultados para corpo docente
 - [ ] Relatório de resultados para corpo docente sobre avaliação do conteúdo
 - [ ] Propostas de cursos relacionados
