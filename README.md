@@ -8,7 +8,6 @@
 O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel, para que eles aproveitem seus cursos em qualquer momento do dia.
 
 
-
 <h4 align="center"> 
 	🚧  Em desenvolvimento . . .
 </h4>
