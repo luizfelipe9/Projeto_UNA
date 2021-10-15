@@ -3,7 +3,7 @@
 
 ![Capa do Projeto](https://picsum.photos/850/280)
 
-# Sobre o Projeto
+# 📝 Sobre o Projeto
 
 O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel, para que eles aproveitem seus cursos em qualquer momento do dia.
 
@@ -12,7 +12,10 @@ O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma práti
 	🚧  Em desenvolvimento . . .
 </h4>
 
-# Índice/Sumário
+----------------------------------------------------------------------------------
+
+
+# 📓 Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
@@ -24,7 +27,11 @@ O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma práti
 * [Agradecimentos](#agradecimentos)
 
 
-# Requisitos Funcionais 
+----------------------------------------------------------------------------------
+
+
+
+# 🔌 Requisitos Funcionais 
 
 - [ ] Cadastrar Usuário
 - [ ] Fazer Login
@@ -42,9 +49,10 @@ O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma práti
 - [ ] Ranqueamento do usuário
 - [ ] Avaliação do conteúdo
 
+----------------------------------------------------------------------------------
 
 
-# Tecnologias Usadas
+# 🔧  Tecnologias Usadas
 
 - [HTML](https://html.com/)
 - [Node.js](https://nodejs.org/en/)
@@ -53,11 +61,15 @@ O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma práti
 - [BootStrap](https://getbootstrap.com/)
 - [JavaScript](https://www.javascript.com/)
 
-# Contribuição
+# :mega: Contribuição
 
 Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
 
-# Autores
+
+----------------------------------------------------------------------------------
+
+
+# :family: Autores
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
 
@@ -86,7 +98,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
     </tr>
 </table>
 
-# Licença
+----------------------------------------------------------------------------------
+
+
+# ✅ Licença
 ![APM](https://img.shields.io/apm/l/react)
 
 MIT License
@@ -110,8 +125,12 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+----------------------------------------------------------------------------------
+
 	
 
-# Agradecimentos
+# 🧑‍🏫 Agradecimentos
 
 Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
