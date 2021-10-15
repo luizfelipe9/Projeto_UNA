@@ -1,11 +1,11 @@
 
 # Uniprod+
-
+oi
 ![Capa do Projeto](https://picsum.photos/850/280)
 
 # Sobre o Projeto
 
-O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel, para que eles aproveitem seus cursos em qualquer momento do dia.
+O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel, para que eles aproveitem seus cursos em qualquer momento do dia
 
 
 <h4 align="center"> 
