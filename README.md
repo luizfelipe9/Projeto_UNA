@@ -5,7 +5,7 @@
 
 # Sobre o Projeto
 
-O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel, para que eles aproveitem seus cursos em qualquer momento do dia
+O Uniprod+ tem como objetivo entregar aos alunos mais conteúdos de forma prática e móvel, para que eles aproveitem seus cursos em qualquer momento do dia.
 
 
 <h4 align="center"> 
@@ -60,6 +60,27 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 # Autores
 
 [Exemplo](https://github.com/testing-library/react-testing-library#contributors)
+
+<table>
+    <tr>
+        <td align="center"><a href="https://github.com/luizfelipe9"><img style="border-radius: 50%;"
+                    src="https://avatars.githubusercontent.com/u/89615294?v=4"
+                    width="100px;" alt="" /><br /><sub><b>Luiz Felipe Ribeiro</b></sub></a><br /><a
+                href="https://github.com/luizfelipe9" title="LuizFelipeRibeiro">👨‍🚀</a></td>
+        <td align="center"><a href="https://github.com/LuizFelipeAlvesMaia"><img style="border-radius: 50%;"
+                    src="https://avatars.githubusercontent.com/u/71887325?v=4"
+                    width="100px;" alt="" /><br /><sub><b>Luiz Felipe Alves Maia</b></sub></a><br /><a
+                href="https://github.com/LuizFelipeAlvesMaia/" title="Rocketseat">👨‍🚀</a></td>
+        <td align="center"><a href="https://github.com/BrunoMarcelinoEustaquioAssis"><img style="border-radius: 50%;"
+                    src="https://avatars.githubusercontent.com/u/90558795?v=4" width="100px;"
+                    alt="" /><br /><sub><b>Bruno Marcelino</b></sub></a><br /><a href="https://github.com/BrunoMarcelinoEustaquioAssis/"
+                title="Rocketseat">👨‍🚀</a></td>
+        <td align="center"><a href="https://github.com/guilhermeguimaraesn"><img style="border-radius: 50%;"
+                    src="https://avatars.githubusercontent.com/u/90528608?v=4" width="100px;"
+                    alt="" /><br /><sub><b>Guilherme Guimarães</b></sub></a><br /><a href="https://github.com/guilhermeguimaraesn/"
+                title="Rocketseat">🚀</a></td>
+    </tr>
+</table>
 
 # Licença
 ![APM](https://img.shields.io/apm/l/react)
