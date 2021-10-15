@@ -63,22 +63,26 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/luizfelipe9"><img style="border-radius: 50%;"
+         <td align="center"><a href="https://github.com/luizfelipe9"><img style="border-radius: 50%;"
                     src="https://avatars.githubusercontent.com/u/89615294?v=4"
                     width="100px;" alt="" /><br /><sub><b>Luiz Felipe Ribeiro</b></sub></a><br /><a
                 href="https://github.com/luizfelipe9" title="LuizFelipeRibeiro">👨‍🚀</a></td>
         <td align="center"><a href="https://github.com/LuizFelipeAlvesMaia"><img style="border-radius: 50%;"
                     src="https://avatars.githubusercontent.com/u/71887325?v=4"
                     width="100px;" alt="" /><br /><sub><b>Luiz Felipe Alves Maia</b></sub></a><br /><a
-                href="https://github.com/LuizFelipeAlvesMaia/" title="Rocketseat">👨‍🚀</a></td>
+                href="https://github.com/LuizFelipeAlvesMaia/" title="Luiz Felipe Alves Maia">👨‍🚀</a></td>
         <td align="center"><a href="https://github.com/BrunoMarcelinoEustaquioAssis"><img style="border-radius: 50%;"
                     src="https://avatars.githubusercontent.com/u/90558795?v=4" width="100px;"
                     alt="" /><br /><sub><b>Bruno Marcelino</b></sub></a><br /><a href="https://github.com/BrunoMarcelinoEustaquioAssis/"
-                title="Rocketseat">👨‍🚀</a></td>
+                title="Bruno Marcelino">👨‍🚀</a></td>
         <td align="center"><a href="https://github.com/guilhermeguimaraesn"><img style="border-radius: 50%;"
                     src="https://avatars.githubusercontent.com/u/90528608?v=4" width="100px;"
                     alt="" /><br /><sub><b>Guilherme Guimarães</b></sub></a><br /><a href="https://github.com/guilhermeguimaraesn/"
-                title="Rocketseat">🚀</a></td>
+                title="Guilherme Guimarães">👨‍🚀</a></td>
+        <td align="center"><a href="https://github.com/Pupsnanda?tab=repositories"><img style="border-radius: 50%;"
+                    src="https://avatars.githubusercontent.com/u/92553645?v=4" width="100px;"
+                    alt="" /><br /><sub><b>Fernanda Lobato</b></sub></a><br /><a href="https://github.com/Pupsnanda?tab=repositories/"
+                title="Fernanda Lobato">👨‍🚀</a></td>
     </tr>
 </table>
 
