@@ -1,7 +1,7 @@
 
 # Uniprod+
 
-![Capa do Projeto](https://imgur.com/5yJyLVh)
+![Capa do projeto](https://imgur.com/JRmDUHb)
 
 # 📝 Sobre o Projeto
 
