@@ -79,6 +79,10 @@ Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o no
                     src="https://avatars.githubusercontent.com/u/89615294?v=4"
                     width="100px;" alt="" /><br /><sub><b>Luiz Felipe Ribeiro</b></sub></a><br /><a
                 href="https://github.com/luizfelipe9" title="LuizFelipeRibeiro">👨‍🚀</a></td>
+	<td align="center"><a href="https://github.com/Renansousa27"><img style="border-radius: 50%;"
+                    src="https://avatars.githubusercontent.com/u/90460786?v=4"
+                    width="100px;" alt="" /><br /><sub><b>Luiz Felipe Ribeiro</b></sub></a><br /><a
+                href="https://github.com/luizfelipe9" title="Renan Souza">👨‍🚀</a></td>
         <td align="center"><a href="https://github.com/LuizFelipeAlvesMaia"><img style="border-radius: 50%;"
                     src="https://avatars.githubusercontent.com/u/71887325?v=4"
                     width="100px;" alt="" /><br /><sub><b>Luiz Felipe Alves Maia</b></sub></a><br /><a
