@@ -1,7 +1,7 @@
 
 # Uniprod+
 
-![Capa do Projeto](https://picsum.photos/850/280)
+![Capa do Projeto](https://imgur.com/a/R8LHTEt)
 
 # 📝 Sobre o Projeto
 
